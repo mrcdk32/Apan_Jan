@@ -1,0 +1,121 @@
+
+84 1000 Platform resources/sprites/Platform/platform_2.png
+132 1000 Platform resources/sprites/Platform/platform_2.png
+180 1000 Platform resources/sprites/Platform/platform_2.png
+228 1000 Platform resources/sprites/Platform/platform_2.png
+276 1000 Platform resources/sprites/Platform/platform_2.png
+324 1000 Platform resources/sprites/Platform/platform_2.png
+372 1000 Platform resources/sprites/Platform/platform_2.png
+420 1000 Platform resources/sprites/Platform/platform_2.png
+468 1000 Platform resources/sprites/Platform/platform_2.png
+516 1000 Platform resources/sprites/Platform/platform_2.png
+564 1000 Platform resources/sprites/Platform/platform_2.png
+612 1000 Platform resources/sprites/Platform/platform_2.png
+660 1000 Platform resources/sprites/Platform/platform_2.png
+708 1000 Platform resources/sprites/Platform/platform_2.png
+756 1000 Platform resources/sprites/Platform/platform_2.png
+804 1000 Platform resources/sprites/Platform/platform_2.png
+
+=== PLATFORM 2 ===
+84 850 Platform resources/sprites/Platform/platform_2.png
+132 850 Platform resources/sprites/Platform/platform_2.png
+180 850 Platform resources/sprites/Platform/platform_2.png
+228 850 Platform resources/sprites/Platform/platform_2.png
+276 850 Platform resources/sprites/Platform/platform_2.png
+324 850 Platform resources/sprites/Platform/platform_2.png
+372 850 Platform resources/sprites/Platform/platform_2.png
+420 850 Platform resources/sprites/Platform/platform_2.png
+
+612 850 Platform resources/sprites/Platform/platform_2.png
+660 850 Platform resources/sprites/Platform/platform_2.png
+708 850 Platform resources/sprites/Platform/platform_2.png
+756 850 Platform resources/sprites/Platform/platform_2.png
+804 850 Platform resources/sprites/Platform/platform_2.png
+
+=== PLATFORM 3  ===
+180 700 Platform resources/sprites/Platform/platform_2.png
+228 700 Platform resources/sprites/Platform/platform_2.png
+276 700 Platform resources/sprites/Platform/platform_2.png
+324 700 Platform resources/sprites/Platform/platform_2.png
+
+468 700 Platform resources/sprites/Platform/platform_2.png
+516 700 Platform resources/sprites/Platform/platform_2.png
+564 700 Platform resources/sprites/Platform/platform_2.png
+612 700 Platform resources/sprites/Platform/platform_2.png
+660 700 Platform resources/sprites/Platform/platform_2.png
+
+
+=== PLATFORM 4 ===
+
+468 550 Platform resources/sprites/Platform/platform_2.png
+516 550 Platform resources/sprites/Platform/platform_2.png
+564 550 Platform resources/sprites/Platform/platform_2.png
+612 550 Platform resources/sprites/Platform/platform_2.png
+660 550 Platform resources/sprites/Platform/platform_2.png
+708 550 Platform resources/sprites/Platform/platform_2.png
+
+=== PLATFORM 5 ===
+
+324 400 Platform resources/sprites/Platform/platform_2.png
+372 400 Platform resources/sprites/Platform/platform_2.png
+420 400 Platform resources/sprites/Platform/platform_2.png
+468 400 Platform resources/sprites/Platform/platform_2.png
+516 400 Platform resources/sprites/Platform/platform_2.png
+564 400 Platform resources/sprites/Platform/platform_2.png
+612 400 Platform resources/sprites/Platform/platform_2.png
+660 400 Platform resources/sprites/Platform/platform_2.png
+708 400 Platform resources/sprites/Platform/platform_2.png
+756 400 Platform resources/sprites/Platform/platform_2.png
+804 400 Platform resources/sprites/Platform/platform_2.png
+
+=== PLATFORM 6 ===
+84 250 Platform resources/sprites/Platform/platform_2.png
+132 250 Platform resources/sprites/Platform/platform_2.png
+180 250 Platform resources/sprites/Platform/platform_2.png
+228 250 Platform resources/sprites/Platform/platform_2.png
+276 250 Platform resources/sprites/Platform/platform_2.png
+324 250 Platform resources/sprites/Platform/platform_2.png
+372 250 Platform resources/sprites/Platform/platform_2.png
+420 250 Platform resources/sprites/Platform/platform_2.png
+468 250 Platform resources/sprites/Platform/platform_2.png
+516 250 Platform resources/sprites/Platform/platform_2.png
+564 250 Platform resources/sprites/Platform/platform_2.png
+612 250 Platform resources/sprites/Platform/platform_2.png
+660 250 Platform resources/sprites/Platform/platform_2.png
+708 250 Platform resources/sprites/Platform/platform_2.png
+
+=== PLATFORM BERIT ===
+268 150 Platform resources/sprites/Platform/platform_2.png
+316 150 Platform resources/sprites/Platform/platform_2.png
+364 150 Platform resources/sprites/Platform/platform_2.png
+412 150 Platform resources/sprites/Platform/platform_2.png
+460 150 Platform resources/sprites/Platform/platform_2.png
+
+
+=== LADDERS ===
+590 278 Ladder resources/sprites/Ladders/Superior_Ladder.png
+370 430 Ladder resources/sprites/Ladders/Superior_Ladder.png
+570 580 Ladder resources/sprites/Ladders/Superior_Ladder.png
+120 730 Ladder resources/sprites/Ladders/Superior_Ladder.png
+520 880 Ladder resources/sprites/Ladders/Superior_Ladder.png
+
+=== Collision_Box ===
+205 335 Collision_Box resources/sprites/Barrel/barrels.png
+
+150 1023 Collision_Box resources/sprites/Barrel/barrel_oil.png
+=== PLAYER ===
+200 972 Player resources/sprites/Mario_sprite/Hans.png
+
+=== APAN JAN ===
+100 225 Gorilla resources/sprites/Jan/Jan_sprite.png
+
+=== BARRELS ===
+
+=== BERIT ===
+300 105 Berit resources/sprites/Berit/Berit_sprite.png
+
+=== Collision_Box ===
+80 970 Collision_Box resources/sprites/Collision_Box/collision_box.png
+
+=== Hammer ===
+350 270 Hammer resources/sprites/Hammer/hammer.png
